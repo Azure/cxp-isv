@@ -1,4 +1,5 @@
-# ISV and Digitnal Native Center of Excellence (ISV+DN CoE)
+# ISV and Digitnal Native Center of Excellence
+## (ISV+DN CoE)
 
 > This repo has been populated by an initial template to help get you started. Please
 > make sure to update the content to build a great experience for community-building.
