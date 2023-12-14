@@ -1,4 +1,4 @@
-# Azure CXP <br />ISV, Startups, and Digital Natives <br />
+# Azure CXP | ISV, Startups, and Digital Natives <br/>
 ## FastTrack for ISV and Startups (FT-ISV)
 
 > This repo has been populated by an initial template to help get you started. Please
